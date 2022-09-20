@@ -11,7 +11,7 @@
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/PEPE)
 
 
 ## Installation
@@ -34,7 +34,7 @@ Install my-project with npm
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://PEPE
 ```
 
 Go to the project directory
